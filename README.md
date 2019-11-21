@@ -1,3 +1,3 @@
 # Assembly Calculator  
-Calculadora em assembly feita na arquitetura nand2tetris
+Calculadora em assembly feita na arquitetura desenvolvida pelo nand2tetris
 
